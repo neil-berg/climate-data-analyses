@@ -1,7 +1,7 @@
 # climate-data-analyses
 Using Python to analyze and visualize climate data
 
-** Packages covered: **
+**Packages covered:**
 * Numpy
 * Pandas
 * Scipy
@@ -9,7 +9,7 @@ Using Python to analyze and visualize climate data
 * Matplotlib
 * Cartopy
 
-** Lectures: **
+**Lectures:**
 1. Intro to data analyses
   * Lists vs. arrays
   * Pandas Series
