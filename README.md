@@ -1,4 +1,4 @@
-# climate-data-analyses
+# climate-data-analyses 🔥🌎💻 📊
 Using Python to analyze and visualize climate data
 
 **Packages covered:**
