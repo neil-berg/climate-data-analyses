@@ -21,3 +21,4 @@ Using Python to analyze and visualize climate data
   * Simple Xarray maps
 4. Working with netCDF Files Part 2
   * Maps with Cartopy
+  * Xarray resampling
