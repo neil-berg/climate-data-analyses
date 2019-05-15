@@ -1,24 +1,38 @@
 # climate-data-analyses 🔥🌎💻 📊
-Using Python to analyze and visualize climate data
+
+This introductory course to using Python for climate data analyses is based on a 4 2-hour lecture series at UCLA.
 
 **Packages covered:**
-* Numpy
-* Pandas
-* Scipy
-* Xarray
-* Matplotlib
-* Cartopy
+
+- Numpy
+- Pandas
+- Scipy
+- Xarray
+- Matplotlib
+- Cartopy
 
 **Lectures:**
+
 1. Intro to data analyses
-  * Lists vs. arrays
-  * Pandas Series
-  * Matplotlib line and scatter plots
-  * Pandas DatetimeIndex and resampling
+
+- Lists vs. arrays
+- Pandas Series
+- Matplotlib line and scatter plots
+- Pandas DatetimeIndex and resampling
+
 2. Pandas DataFrames
+
+- Creating DataFrames
+- Slicing DataFrames
+- Plotting DataFrames in Pandas and Matplotlib
+- Reading external files to create DataFrames
+
 3. Working with netCDF Files Part 1
-  * Extracting and manipulating data with Xarray
-  * Simple Xarray maps
+
+- Extracting and manipulating data with Xarray
+- Simple Xarray maps
+
 4. Working with netCDF Files Part 2
-  * Maps with Cartopy
-  * Xarray resampling
+
+- Maps with Cartopy
+- Xarray resampling
